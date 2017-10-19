@@ -7,7 +7,7 @@ output: html_document
 
 ## 课题组主要研究方向：
 
-  1. 宏基因组学（重点方向）
+  1. 微生物组（重点方向）
     - （宏）基因组组装（[OPERA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3216105/)，[OPERA-LG](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0951-y)）
     - 皮肤微生物宏基因组（[特应性皮炎与皮肤微生物的研究](https://www.nature.com/articles/nmicrobiol2016106)）
     - 微生物抗药性研究
