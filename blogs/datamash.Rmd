@@ -1,0 +1,30 @@
+---
+title: "命令行表格处理的瑞士军刀——Datamash"
+author: "Chenhao Li"
+date: "18/10/2017"
+output: html_document
+---
+# 输入文件准备
+```{sh}
+## example bed file from Genome Analysis Workshop
+wget https://molb7621.github.io/workshop/_downloads/lamina.bed
+```
+列表式的数据（TSV、CSV等）是生物信息分析中常用的一类数据格式，如SAM，BED，VCF等文件其实正是一种规范化的TSV（tab-separated-values）文件，在命令行分析此类文件时，我们经常会用到的命令如cut，sort，join等等。但是
+
+# 安装datamash
+Unix-like（MacOS，Linux）
+```{sh eval=FALSE}
+wget http://ftp.gnu.org/gnu/datamash/datamash-1.2.tar.gz
+tar -xzf datamash-1.2.tar.gz
+cd datamash-1.2
+./configure
+make
+make check
+sudo make install
+```
+Homebrew
+```{sh eval=FALSE}
+brew install datamash
+```
+
+

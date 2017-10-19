@@ -1,0 +1,71 @@
+---
+title: "新加坡基因组研究所Nagarajan组招聘博后"
+date: "19/10/2017"
+output: html_document
+---
+# 招聘博士后若干名（不仅限于以下两个）
+
+## 课题组主要研究方向：
+
+  1. 宏基因组学（重点方向）
+    - （宏）基因组组装（[OPERA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3216105/)，[OPERA-LG](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0951-y)）
+    - 皮肤微生物宏基因组（[特应性皮炎与皮肤微生物的研究](https://www.nature.com/articles/nmicrobiol2016106)）
+    - 微生物抗药性研究
+    - 微生物间、微生物宿主相互作用的研究（[\@MInter](https://academic.oup.com/bioinformatics/article/32/19/2981/2196520/MInter-automated-text-mining-of-microbial)）
+    - 很多与企业合作的机会，如：达能（DANONE）、宝洁（P&G;[马拉色菌基因组草图](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005614)）
+  2. 癌症基因组学
+    - 多组学数据整合分析方法研发（[OncoImpact](https://www.ncbi.nlm.nih.gov/pubmed/25572314), [ConsensusDriver](https://www.biorxiv.org/content/early/2017/04/18/127985)）
+    - 抗癌药物药效预测
+  3. 牛津纳米孔测序技术的应用
+    - 纳米孔测序数据的分析及应用（[Graphmap](https://www.ncbi.nlm.nih.gov/pubmed/27079541)，[INC-Seq](https://www.ncbi.nlm.nih.gov/pubmed/27485345)，[Racon](http://genome.cshlp.org/content/early/2017/01/18/gr.214270.116)）
+    - 已配备2台MinION测序仪
+    - 已预订gridION测序仪
+    - 已参与PromethION Early Access Programme（PEP）并计划购买PromethION测序仪
+
+# 参考信息
+ - 新加坡基因组研究所：https://www.a-star.edu.sg/gis
+ - PI信息：https://www.a-star.edu.sg/gis/our-people/investigator-details.aspx?source=faculty_member&user_id=130
+  
+# 职位信息
+
+## 1. Post-doctoral Fellowship in RNA Structural Genomics
+
+We are seeking highly qualified computational scientists with expertise/interest in RNA structure and biology. The Nagarajan Lab, in collaboration with the Wan Lab at the Genome Institute of Singapore are looking for applicants to direct collaborative projects involving the development of new algorithms and the analyis of novel high-throughput, genome-scale RNA structure datasets. Successfull candidates will work in a highly inter-disciplinary environment to apply cutting edge techniques in computational and experimental genomics for achieving breakthrough discoveries that significantly advance human health and well-being.
+
+RNA structure is fundamental to its function in almost every cellular process and for understanding disease biology. We have developed new approaches to probe RNA secondary and tertiary structure genome-wide [1-4] and are applying these for a range of applications including (i) identification of new targets for developing antibiotics against extremely drug-resistant pathogens (ii) understanding host-microbial interactions in diseases and (iii) identifying structural switches that control gene regulation during stem-cell differentiation and oncogenesis. We are seeking exceptional researchers who will join us in leveraging this unique opportunity for significant basic and translational advances in RNA genomics.
+
+### References
+
+1. Kertesz M#, Wan Y#, Mazor E, Rinn JL, Nutter RC, Chang HY, Segal E "Genome-wide measurement of RNA secondary structure in yeast." Nature 2010 Sep 2 ; 467(7311) : 103-7
+2. Wan Y, Qu K, Ouyang Z, Kertesz M, Li J, Tibshirani R, Makino DL, Nutter RC, Segal E, Chang HY "Genome-wide measurement of RNA folding energies." Mol Cell 2012 Oct 26 ; 48(2) : 169-81 Epub 2012 Sep 13
+3. Wan Y.#, Qu K.#, Zhang QF, Manor O, Ouyang Z, Zhang J, Snyder MP, Segal E and Chang HY "Landscape and variation of RNA secondary structure across the human transcriptome." Nature 2014 ; 505, 706–709
+4. Aw JG, Shen Y, Wilm A, Sun M, Lim XN, Boon KL, Tapsin S, Chan YS, Tan CP, Sim AY, Zhang T, Susanto TT, Fu Z, Nagarajan N#, Wan Y# "In Vivo Mapping of Eukaryotic RNA Interactomes Reveals Principles of Higher-Order Organization and Regulation." Mol Cell 2016 May 19 ; 62(4) : 603-17 Epub 2016 May 12
+
+### Qualifications
+ - PhD in Computational Biology/Computer Science/Applied Mathematics/Genomics
+ - Strong analytical and programming skills (C/C++, perl/python, UNIX environment). Candidates with significant experience in RNA structure prediction will be strongly preferred.
+ 
+### How To Apply
+E-mail cover letter, research statement, curriculum vitae, and contact details of at least three referees to Niranjan Nagarajan (nagarajann@gis.a-star.edu.sg) and Wan Yue (wany@gis.a-star.edu.sg)
+
+## 2. Post-doctoral Fellowship in Skin Microbiome Studies
+
+We are looking for genomics researchers with a keen interest in studying the role of microbes in skin diseases. The Nagarajan lab in the Genome Institute of Singapore, in collaboration with the Epithelial Biology group in the Institute of Medical Biology are seeking candidates to lead multiple projects studying the role of the microbiome in inflammatory diseases of the skin (e.g. eczema, psoriasis etc.). Successful candidates will have the opportunity to design new studies in close interaction with doctors and domain experts, applying nextgen omics and analytical approaches to understand the complex host-microbiome interactions that lead to skin disease [1].
+
+The role that microbes play on human skin is still poorly understood despite characterization of the diversity of habitats and niches that they occupy [2]. This is particularly the case for skin diseases which can affect a large proportion of the population and have a significant impact on their quality of life. We recently conducted a metagenome-wide association study for eczema, identifying key microbes and their likely functional roles [1]. We are interested in extending this work in several directions including (i) characterizing the utility of pre-/probiotic therapies (ii) developing in vitro and in silico models for host-microbiome interactions [3] and (iii) studying the role of fungi (e.g. Malassezia) on human skin [4].
+
+### References
+
+1. Chng KR, Tay ASL, Li C, Ng AHQ, Wang J, Suri BK, Matta AS, McGovern N, Janela B, Wong XFC, Sio YY, Au BV, Wilm A, De Sessions PF, Lim TC, Tang MBY, Ginhoux F, Connolly JE, Lane EB, Chew FT, Common JEA#, Nagarajan N# "Whole metagenome profiling reveals skin microbiome-dependent susceptibility to atopic dermatitis flare" Nature Microbiology 2016 1:16106 doi:10.1038/nmicrobiol.2016.106
+2. Oh, J. et al. "Biogeography and individuality shape function in the human skin metagenome." Nature 2014 514, 59–64
+3. Li C, Lim KM, Chng KR, Nagarajan N# "Predicting microbial interactions through computational approaches." Methods 2016 Jun 1 ; 102 : 12-9 Epub 2016 Mar 26
+4. Wu G, Zhao H, Li C, Rajapakse MP, Wong WC, Xu J, Saunders CW, Reeder NL, Reilman RA, Scheynius A, Sun S, Billmyre BR, Li W, Averette AF, Mieczkowski P, Heitman J, Theelen B, Schröder MS, De Sessions PF, Butler G, Maurer-Stroh S, Boekhout T, Nagarajan N#, Dawson TL# "Genus-Wide Comparative Genomics of Malassezia Delineates Its Phylogeny, Physiology, and Niche Adaptation on Human Skin." PLoS Genet 2015 Nov ; 11(11) : e1005614 Epub 2015 Nov 5
+
+### Qualifications
+
+ - PhD in Computational Biology/Computer Science/Applied Mathematics/Genomics
+ - Strong analytical and programming skills (C/C++, perl/python, UNIX environment). Candidates with significant experience in Microbiome Studies or Skin Biology will be strongly preferred.
+
+### How To Apply
+
+E-mail cover letter, research statement, curriculum vitae, and contact details of at least three referees to Niranjan Nagarajan (nagarajann@gis.a-star.edu.sg)
