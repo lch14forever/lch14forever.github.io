@@ -30,8 +30,8 @@
 <meta name="generator" content="Hugo 0.30.2" />
 
 
-<link rel="canonical" href="/" />
-<link rel="alternative" href="/index.xml" title="Chenhao&#39;s Blog" type="application/atom+xml" />
+<link rel="canonical" href="/blog/blog/" />
+<link rel="alternative" href="/blog/index.xml" title="Chenhao&#39;s Blog" type="application/atom+xml" />
 
 
 <meta name="renderer" content="webkit" />
@@ -56,16 +56,16 @@
 <meta name='msapplication-navbutton-color' content="#5fbf5e" />
 <meta name="msapplication-TileColor" content="#5fbf5e" />
 <meta name="msapplication-TileImage" content="/img/tile-image-windows.png" />
-<link rel="icon" href="/img/favicon.ico" />
-<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png" />
-<link rel="icon" sizes="192x192" href="/img/touch-icon-android.png" />
-<link rel="apple-touch-icon" href="/img/touch-icon-apple.png" />
-<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5fbf5e" />
+<link rel="icon" href="/blog/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="/blog/img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/blog/img/favicon-32x32.png" />
+<link rel="icon" sizes="192x192" href="/blog/img/touch-icon-android.png" />
+<link rel="apple-touch-icon" href="/blog/img/touch-icon-apple.png" />
+<link rel="mask-icon" href="/blog/img/safari-pinned-tab.svg" color="#5fbf5e" />
 
 
 
-<link rel="stylesheet" href="/css/bundle.css" />
+<link rel="stylesheet" href="/blog/css/bundle.css" />
 
 
   
@@ -96,7 +96,7 @@
     
     
   <header class="site-header">
-  <img class="avatar" src="/img/avatar.jpg" alt="Avatar">
+  <img class="avatar" src="/blog/img/avatar.jpg" alt="Avatar">
   
   <h1 class="title">Chenhao&#39;s Blog</h1>
   
@@ -111,13 +111,13 @@
       
       
       
-        <li class="menu-item  is-active"><a href="/">Home</a></li>
+        <li class="menu-item  is-active"><a href="/blog/">Home</a></li>
       
         <li class="menu-item "><a href="https://github.com/lch14forever">Works</a></li>
       
-        <li class="menu-item "><a href="/links/">Links</a></li>
+        <li class="menu-item "><a href="/blog/links/">Links</a></li>
       
-        <li class="menu-item "><a href="/about/">About</a></li>
+        <li class="menu-item "><a href="/blog/about/">About</a></li>
       
     </ul>
   </nav>
@@ -178,7 +178,7 @@
       
 
       <li class="social-item">
-        <a href="/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
+        <a href="/blog/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
       </li>
 
     </ul>
@@ -194,7 +194,7 @@
       
         <article class="post-entry">
   <header class="post-header">
-    <h3 class="post-title"><a href="/post/2017-10-29-r-sankeyplot/" class="post-link">桑基图（Sankey diagram）</a></h3>
+    <h3 class="post-title"><a href="/blog/blog/post/2017-10-29-r-sankeyplot/" class="post-link">桑基图（Sankey diagram）</a></h3>
     <p class="post-meta">@Chenhao Li (李陈浩) · Oct 29, 2017 · 1 min read</p>
   </header>
   
@@ -203,7 +203,7 @@ download.file(&#39;https://bitbucket.org/biobakery/biobakery/raw/tip/demos/bioba
 library(networkD3)  数据预处理 函数sankeyNetwork主要需要两个data frame: Links和Nodes。Links主要有连接的起点（source）和终点（target），似乎此处的起点和终点只能是从0开始的数字。Nodes如果不指定ID，默认行是按照0开始的数字排列。
 second_last &lt;- function(x) ifelse(length(x)&gt;1, x[length(x)-1], NA) taxtab &lt;- taxtab[-grep(&#39;unclassified&#39;, taxtab$V1), ] ## remove unlassified taxa tax_split &lt;- strsplit(taxtab$V1, &#39;\\|&#39;) ## split into different taxonomy levels target &lt;- sapply(tax_split, tail, n=1) ## target node mapping &lt;- data.frame(id=0:(length(target)-1), row.names=target) target_id &lt;- mapping$id source &lt;- sapply(tax_split, second_last) ## source node source_id &lt;- mapping[source,] value &lt;- taxtab$V2 ## width of flow links &lt;- data.</p>
   <footer class="post-footer">
-    <a class="read-more" href="/post/2017-10-29-r-sankeyplot/">Read More →</a>
+    <a class="read-more" href="/blog/blog/post/2017-10-29-r-sankeyplot/">Read More →</a>
   </footer>
 </article>
 
@@ -219,7 +219,7 @@ second_last &lt;- function(x) ifelse(length(x)&gt;1, x[length(x)-1], NA) taxtab 
 
 
 
-<script src="/js/bundle.js"></script>
+<script src="/blog/js/bundle.js"></script>
 
 
 <script>

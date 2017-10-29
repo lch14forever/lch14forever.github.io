@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chenhao&#39;s Blog</title>
-    <link>/tags/</link>
+    <link>/blog/tags/</link>
     <description>Recent content in Tags on Chenhao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This site was created with R BlogDown and HuGo by Chenhao Li.</copyright>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
