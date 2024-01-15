@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bioinformatician with a gut feeling"
+title                    : "Functional metagenomics & Host-microbe interaction"
 title_separator          : "-"
 name                     : &name "Chenhao Li (李陈浩)"
 description              : &description "personal description"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Chenhao Li"
-  avatar           : "images/portrait.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Boston"
+  avatar           : "portrait.jpg"
+  bio              : "Bioinformatician with a gut feeling"
+  location         : "Boston, MA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Li+C&cauthor_id=34495960"
   googlescholar    : "https://scholar.google.com.sg/citations?user=iMwrad0AAAAJ"
