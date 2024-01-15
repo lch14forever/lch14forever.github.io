@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chenhao Li"
-  avatar           : "profile.png"
+  avatar           : "images/portrait.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Boston"
   employer         :
